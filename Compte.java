@@ -28,7 +28,9 @@ public class Compte {
     public String toString(){
         return "Numero de compte "+this.numero+" Solde: "+this.solde;
     }
-     public void transfert(Compte c){
-        c.solde += this.solde;
+     public void transfert(Compte c, double montant){
+        this.debiter(montant);
+         c.crediter(montant);
+         //c.solde += this.solde;
      }
 }
