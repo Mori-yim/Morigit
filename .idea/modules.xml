@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Gestion_Hopital.iml" filepath="$PROJECT_DIR$/Gestion_Hopital.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Gestion_Hopital_2.iml" filepath="$PROJECT_DIR$/Gestion_Hopital_2.iml" />
+>>>>>>> 290b811 (Gestion hopital complet)
     </modules>
   </component>
 </project>
